@@ -1,0 +1,9 @@
+a{
+    background-color: yellow;
+}
+/* .tarun{
+    background-color: red;
+} */
+a[target]{
+    background-color: red;
+}
